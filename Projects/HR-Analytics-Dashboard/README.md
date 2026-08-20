@@ -90,7 +90,7 @@ The model uses one-to-many relationships from the Departments and Job Roles look
 
 ## Files
 
-- `HR_Workforce_Analytics_Dashboard.pbix` — Power BI report
+- `Power BI/HR_Workforce_Analytics_Dashboard.pbix` — Power BI report
 - `Data/HR_Workforce_Analytics_Dataset.xlsx` — Source dataset
 - `Images/` — Dashboard screenshots
 
