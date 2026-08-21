@@ -36,4 +36,4 @@ Aspiring Data Analyst with a B.S. in Software Engineering and hands-on experienc
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/eve-mansi-015835285/)
+[LinkedIn](https://www.linkedin.com/in/evette-mansi-015835285/)
