@@ -1,6 +1,6 @@
 # Evette Mansi | Data Analytics Portfolio
 
-Aspiring Data Analyst with a B.S. in Software Engineering and hands-on experience using Power BI, Power Query, DAX, Excel, SQL, and GitHub. This portfolio features end-to-end analytics projects covering data cleaning, modeling, KPI development, visualization, validation, and business insight reporting.
+Aspiring Data Analyst with a B.S. in Software Engineering and hands-on experience using Power BI, Power Query, DAX, Excel, and GitHub. This portfolio features end-to-end analytics projects covering data cleaning, modeling, KPI development, visualization, validation, and business insight reporting.
 
 ## Featured Projects
 
