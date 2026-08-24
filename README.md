@@ -16,7 +16,7 @@ Aspiring Data Analyst with a B.S. in Software Engineering and hands-on experienc
 
 ### 2. [HR Workforce Analytics Dashboard](Projects/HR-Analytics-Dashboard)
 
-- Analyzed a synthetic workforce dataset containing **2,400 employee records**.
+- Analyzed workforce trends covering 2,400 hires, 681 exits, and a current headcount of 1,719 employees.
 - Cleaned and validated employee, department, and job-role data with Power Query.
 - Built a relational model with a dedicated Date table and active/inactive date relationships.
 - Developed DAX measures for headcount, hires, exits, workforce change, attrition, salary, and tenure.
