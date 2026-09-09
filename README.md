@@ -25,6 +25,17 @@ Aspiring Data Analyst with a B.S. in Software Engineering and hands-on experienc
 
 **Tools:** Power BI, Power Query, DAX, Excel
 
+### 3. [Customer Retention Analytics Dashboard](customer-retention-sql-power-bi)
+
+* Audited 750 customer records in SQL Server and created a clean view containing 714 valid records.
+* Checked customer-ID uniqueness, missing values, invalid dates, order logic, and revenue calculations.
+* Developed DAX measures for repeat customers, churn risk, loyalty membership, satisfaction, orders, revenue, and net sales.
+* Identified a 95.7% repeat-customer rate, a 16.2% churn-risk rate, and $361.6K in net sales.
+* Built a two-page interactive Power BI dashboard with synchronized slicers and a high-risk customer priority table.
+
+**Tools:** SQL Server, SSMS, Power BI, SQL, DAX
+
+
 ## Technical Skills
 
 - **Data Visualization:** Power BI, interactive dashboards, KPI reporting
