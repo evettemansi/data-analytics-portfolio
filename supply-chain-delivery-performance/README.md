@@ -106,6 +106,20 @@ Compares freight share and total freight cost across product categories.
 
 An internal hidden page used to compare exact Power BI KPI results with the SQL validation view.
 
+## Dashboard Screenshots
+
+### Overview
+
+![Delivery Performance Overview](images/overview.png)
+
+### Late Delivery Breakdown
+
+![Late Delivery Breakdown](images/late-delivery-breakdown.png)
+
+### Freight Cost Analysis
+
+![Freight Cost Analysis](images/freight-cost-analysis.png)
+
 ## Repository Structure
 
 - `sql/` — SQL scripts for import validation, cleaning views, analytical views, business analysis, and KPI validation
