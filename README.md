@@ -35,7 +35,16 @@ Aspiring Data Analyst with a B.S. in Software Engineering and hands-on experienc
 
 **Tools:** SQL Server, SSMS, Power BI, SQL, DAX
 
+### 4. [Supply Chain Delivery Performance Analysis](supply-chain-delivery-performance/)
 
+- Analyzed **99,092 orders** and **96,203 measurable deliveries** using SQL Server and Power BI.
+- Cleaned and validated customer, order, product, seller, payment, review, and freight data through reusable SQL views.
+- Built an order-level and item-level relational model with a dedicated Date table.
+- Developed and validated delivery KPIs, including a **93.21% on-time delivery rate**, **12.48 average delivery days**, and **R$15.94M in revenue**.
+- Identified delivery-risk patterns by month, customer state, product category, and seller, and measured the effect of late delivery on customer review scores.
+- Analyzed **R$2.25M in freight costs** and identified product categories requiring cost and shipping-efficiency attention.
+
+**Tools:** SQL Server, SSMS, Power BI, Power Query, DAX, GitHub
 ## Technical Skills
 
 - **Data Visualization:** Power BI, interactive dashboards, KPI reporting
